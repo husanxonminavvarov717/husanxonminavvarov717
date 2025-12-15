@@ -33,6 +33,10 @@
 
 ![header](https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=husanxonminavvarov717%20&descAlign=100&descAlignY=52&fontAlignY=51&fontAlign=50&textBg=false&rotate=0&strokeWidth=-8)
 ![Country](https://img.shields.io/badge/Location-Uzbekistan-blue?style=for-the-badge)
+
+## Java
+![gif](https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3MzNxM2g4eGY3anAwY2wzNnMzZjJweGozb3dhdXMyNnQ3ZTkwYXJkeCZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/hO8uTzEOefFh3Yv5gm/giphy.gif)
+
 ## 🛠 Skills
 <img src="https://skillicons.dev/icons?i=java,html,css,js,git,github" />
 
