@@ -27,6 +27,9 @@
 
 ⭐ *Learning every day, no shortcuts.*
 
+## 🐍 Contribution Snake
+![snake](https://github.com/husanxonminavvarov717/husanxonminavvarov717/blob/output/github-contribution-grid-snake.svg)
+
 ![header](https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=husanxonminavvarov717%20&descAlign=100&descAlignY=52&fontAlignY=51&fontAlign=50&textBg=false&rotate=0&strokeWidth=-8)
 ![Country](https://img.shields.io/badge/Location-Uzbekistan-blue?style=for-the-badge)
 ## 🛠 Skills
