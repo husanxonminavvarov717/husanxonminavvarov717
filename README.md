@@ -37,8 +37,9 @@
 </a>
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=husanxonminavvarov717&show_icons=true&theme=tokyonight)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=husanxonminavvarov717&layout=compact&theme=tokyonight)
-### 📊 GitHub Stats
-![stats](...)
+![gif](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg
+)
+
 
 
 
