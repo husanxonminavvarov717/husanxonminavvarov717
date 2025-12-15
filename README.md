@@ -31,8 +31,10 @@
 ![Country](https://img.shields.io/badge/Location-Uzbekistan-blue?style=for-the-badge)
 ## 🛠 Skills
 <img src="https://skillicons.dev/icons?i=java,html,css,js,git,github" />
+
 ## gif1
 ![gif](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg)
+
 ## gif2
 ![gif](https://media.giphy.com/media/5GoVLqeAOo6PK/giphy.gif)
 
