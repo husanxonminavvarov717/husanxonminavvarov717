@@ -8,7 +8,6 @@
 
 ## 🚀 Skills
 - HTML
-- CSS
 - Java (Beginner)
 - Git & GitHub
 
