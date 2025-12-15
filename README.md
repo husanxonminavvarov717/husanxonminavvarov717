@@ -35,7 +35,7 @@
 ## grid-snake
 ![gif](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg)
 
-##
+## GIT
 ![gif](https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif)
 
 
