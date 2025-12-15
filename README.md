@@ -31,8 +31,6 @@
 ![Country](https://img.shields.io/badge/Location-Uzbekistan-blue?style=for-the-badge)
 ## 🛠 Skills
 <img src="https://skillicons.dev/icons?i=java,html,css,js,git,github" />
-## 🐍 Contribution Snake
-![snake](https://github.com/husanxonminavvarov717/husanxonminavvarov717/blob/output/github-contribution-grid-snake.svg)
 ## 🌐 Socials
 <a href="https://github.com/husanxonminavvarov717">
   <img src="https://skillicons.dev/icons?i=github" />
