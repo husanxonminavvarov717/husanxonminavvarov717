@@ -32,14 +32,13 @@
 ## 🛠 Skills
 <img src="https://skillicons.dev/icons?i=java,html,css,js,git,github" />
 
-## gif1
+## grid-snake
 ![gif](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg)
 
-## gif2
-![gif](https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif)
+##
+![gif](https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif)
 
-## gif3
-![gif](https://media.giphy.com/media/26BRrSvJUa0crqw4E/giphy.gif)
+
 
 
 
