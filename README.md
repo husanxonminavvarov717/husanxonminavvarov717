@@ -36,7 +36,12 @@
 ![gif](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg)
 
 ## gif2
-![gif](https://media.giphy.com/media/5GoVLqeAOo6PK/giphy.gif)
+![gif](https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif)
+
+## gif3
+![gif](https://media.giphy.com/media/26BRrSvJUa0crqw4E/giphy.gif)
+
+
 
 
 
