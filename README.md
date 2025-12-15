@@ -36,23 +36,25 @@
 
 ![gif](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeGNoYnQxbWVydzQ4azNpejFrNWQwdTB1aTJiZWVoemhzeWxwdXlmbyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/78XCFBGOlS6keY1Bil/giphy.gif)
 
-![header](https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=husanxonminavvarov717%20&descAlign=100&descAlignY=52&fontAlignY=51&fontAlign=50&textBg=false&rotate=0&strokeWidth=-8)
 ![Country](https://img.shields.io/badge/Location-Uzbekistan-blue?style=for-the-badge)
 
-## Java
+## 
+![gif](https://raw.githubusercontent.com/RissMorisson/RissMorisson/output/pacman-contribution-graph.svg)
+
+## 
 ![gif](https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3MzNxM2g4eGY3anAwY2wzNnMzZjJweGozb3dhdXMyNnQ3ZTkwYXJkeCZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/hO8uTzEOefFh3Yv5gm/giphy.gif)
 
-## 🛠 Skills
+## 🛠 
 <img src="https://skillicons.dev/icons?i=java,html,css,js,git,github" />
 
-## grid-snake
+## 
 ![gif](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg)
 
-## GIT
+## 
 ![gif](https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif)
 
-## matrix rain
-![gif](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeGE1b3M0YzFlZ2VqaHY0cDUyZ3A1eTl1cmd6Y3lhMWNxeGRubmJqcSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/10zxDv7Hv5RF9C/giphy.gif)
+##
+![gif](https://github.com/menacedjava/menacedjava/raw/main/.github/workflows/matrix.svg)
 
 ##
 ![gif](https://private-user-images.githubusercontent.com/193404105/417462854-62b67557-7cd0-4205-ac7c-25564fc56d5f.gif?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NjU4MjM4MzgsIm5iZiI6MTc2NTgyMzUzOCwicGF0aCI6Ii8xOTM0MDQxMDUvNDE3NDYyODU0LTYyYjY3NTU3LTdjZDAtNDIwNS1hYzdjLTI1NTY0ZmM1NmQ1Zi5naWY_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjUxMjE1JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI1MTIxNVQxODMyMThaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT1lZDYzN2ZiOTljZWExOWYwMDFlNzczNTVhZmM3MjU1MjA0NzE4ZmIxZjEyMWM0YWQ1YTZjOTAyODNmODRiYWQxJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.G0hJYPNXCo5Vcd5XrJKL-bkaCDmtg-OhTFvTNyOUIu4)
