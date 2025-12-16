@@ -63,9 +63,13 @@
 ![gif](https://private-user-images.githubusercontent.com/193404105/417461681-97b79ec2-eed3-4fbe-847f-acfa3fe66040.gif?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NjU4MjM4MzgsIm5iZiI6MTc2NTgyMzUzOCwicGF0aCI6Ii8xOTM0MDQxMDUvNDE3NDYxNjgxLTk3Yjc5ZWMyLWVlZDMtNGZiZS04NDdmLWFjZmEzZmU2NjA0MC5naWY_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjUxMjE1JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI1MTIxNVQxODMyMThaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT1hYTczNjFmYmJiNzZhNDY3OWYxMzA1ZDllN2M1ZWEyOWM0OWY2MTZmMWRiM2Y1NzBhODdkOTJhNmEzMmFhODdhJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.L-rbh0jFoVJwn1FsjBc81ZwF7J8zzYS8xElV7FmrOXI)
 
 ##
-## 📊 GitHub Statistics
+
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=husanxonminavvarov717&show_icons=true&theme=radical&hide_border=true)
+
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=husanxonminavvarov717&layout=compact&theme=radical&hide_border=true)
+
 
 
 
