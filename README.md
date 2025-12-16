@@ -48,7 +48,7 @@
 <img src="https://skillicons.dev/icons?i=java,html,css,js,git,github" />
 
 ## 
-![gif](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg)
+![gif](https://github.com/menacedjava/menacedjava/raw/main/.github/workflows/snake.svg)
 
 ## 
 ![gif](https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif)
