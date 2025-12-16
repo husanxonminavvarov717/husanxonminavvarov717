@@ -54,36 +54,12 @@
 ![gif](https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif)
 
 ##
-// Source - https://stackoverflow.com/q
-// Posted by Mikhail T.
-// Retrieved 2025-12-16, License - CC BY-SA 4.0
 
-  protected static AudioFormat getFormatForPlaying(byte [] audioData)
-      throws UnsupportedAudioFileException, IOException{
-    ByteArrayInputStream bais = new ByteArrayInputStream(audioData);
-    AudioFormat format = AudioSystem.getAudioFileFormat(bais).getFormat();
-    DataLine.Info info = new DataLine.Info(SourceDataLine.class, format);
-
-    if (AudioSystem.isLineSupported(info)) {
-      System.err.println("Audio format ``" + format + "'' can be used straight");
-      return format;
-    }
-    System.err.println("Audio format ``" + format + "'' can not be used straight");
-
-    AudioFormat[] possibleFormats = AudioSystem.getTargetFormats(
-      AudioFormat.Encoding.PCM_SIGNED, format);
-
-    for (AudioFormat newFormat : possibleFormats) {
-      info = new DataLine.Info(SourceDataLine.class, newFormat);
-      if (AudioSystem.isLineSupported(info)) {
-         System.err.println("Will try audio format " + newFormat + " instead of " + format);
-         return newFormat;
-      }
-      System.err.println("Format ``" + newFormat + "'' cannot be used");
-    }
-    throw new UnsupportedAudioFileException("No suitable audio format among " +
-      possibleFormats.length + " possibilities");
+public class main{
+  public static void main(String[] args){
+  system.out.println("Hello World");
   }
+ } 
 
 
 ##
