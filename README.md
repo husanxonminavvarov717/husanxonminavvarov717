@@ -52,12 +52,7 @@
 
 ## 
 ![gif](https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif)
-
-## public class main{
-  public static void main(String[] args){
-  system.out.println("Hello World");
-  }
- } 
+ 
 
 
 ##
