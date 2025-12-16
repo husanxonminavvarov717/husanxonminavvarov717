@@ -5,7 +5,7 @@
 
 
 
-# 👋 Assalamu alaykum, I'm Husanxon
+# 👋 Hi, I'm Husanxon
 
 🎓 Beginner Developer  
 💻 Learning Java, Git & Web  
