@@ -70,6 +70,10 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=husanxonminavvarov717&layout=compact&theme=radical&hide_border=true)
 
+##
+![GitHub Stats](https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3cThxaXh3emZibzc2Z3lkdGxkNjNueGFneGJuMHlxYjh1NjJsNGZmbiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/l0HlU43KnuZmrDefK/giphy.gif)
+
+
 
 
 
