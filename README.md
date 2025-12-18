@@ -67,6 +67,8 @@
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=husanxonminavvarov717&show_icons=true&theme=radical&hide_border=true)
 
+![gif](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMTZ6bHpsZTNxZWNrcDExZ2xrendtZzN2bW11NjE1em05eTZiamhrcyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/DOCoZODhD8i90JX33A/giphy.gif)
+
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=husanxonminavvarov717&layout=compact&theme=radical&hide_border=true)
 
