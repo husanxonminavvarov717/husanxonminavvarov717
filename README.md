@@ -21,9 +21,14 @@
 ---
 
 ## 📂 Projects
-- 🔹 Simple Portfolio  
-- 🔹 Simple To-Do App
-- ......... 
+- 🔹  cedesByKhusan Public
+- 🔹  app-26th-main Public
+- 🔹  Evos-project Evos
+- 🔹  html-first-project Public
+- 🔹  hello-sum-merc
+- 🔹  RandomStoryEngine-ts Public
+
+
 
 ---
 
