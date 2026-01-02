@@ -1,11 +1,11 @@
 #
-![header](https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Mynanse%20&descAlign=100&descAlignY=52&fontAlignY=51&fontAlign=50&textBg=false&rotate=0&strokeWidth=-8)
+![header](https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Malance%20&descAlign=100&descAlignY=52&fontAlignY=51&fontAlign=50&textBg=false&rotate=0&strokeWidth=-8)
 ![Country](https://img.shields.io/badge/Location-Uzbekistan-blue?style=for-the-badge)
 
 
 
 
-# 👋 Hi there, I'm Mynanse
+# 👋 Hi there, I'm Malance
 
 🎓 Developer  
 💻 Learning Java, Git & Web  
