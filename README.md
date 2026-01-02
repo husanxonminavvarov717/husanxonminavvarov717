@@ -5,9 +5,9 @@
 
 
 
-# 👋 Hi there, I'm Husanxon
+# 👋 Hi there, I'm Mynanse
 
-🎓 Beginner Developer  
+🎓 Developer  
 💻 Learning Java, Git & Web  
 🌱 Always improving step by step  
 
@@ -15,7 +15,7 @@
 
 ## 🚀 Skills
 - HTML
-- Java (Beginner)
+- Java 
 - Git & GitHub
 
 ---
