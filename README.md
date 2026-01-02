@@ -1,11 +1,11 @@
 #
-![header](https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=LXace%20&descAlign=100&descAlignY=52&fontAlignY=51&fontAlign=50&textBg=false&rotate=0&strokeWidth=-8)
+![header](https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=LXance%20&descAlign=100&descAlignY=52&fontAlignY=51&fontAlign=50&textBg=false&rotate=0&strokeWidth=-8)
 ![Country](https://img.shields.io/badge/Location-Uzbekistan-blue?style=for-the-badge)
 
 
 
 
-# 👋 Hi there, I'm LXamce
+# 👋 Hi there, I'm LXance
 
 🎓 Developer  
 💻 Learning Java, Git & Web  
