@@ -50,8 +50,7 @@
 
 ![Country](https://img.shields.io/badge/Location-Uzbekistan-blue?style=for-the-badge)
 
-## 
-![gif](https://raw.githubusercontent.com/RissMorisson/RissMorisson/output/pacman-contribution-graph.svg)
+
 
 ## 
 ![gif](https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3MzNxM2g4eGY3anAwY2wzNnMzZjJweGozb3dhdXMyNnQ3ZTkwYXJkeCZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/hO8uTzEOefFh3Yv5gm/giphy.gif)
@@ -150,8 +149,6 @@
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=husanxonminavvarov717&show_icons=true&theme=radical&hide_border=true)
 
-
-![gif](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMTZ6bHpsZTNxZWNrcDExZ2xrendtZzN2bW11NjE1em05eTZiamhrcyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/DOCoZODhD8i90JX33A/giphy.gif)
 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=husanxonminavvarov717&layout=compact&theme=radical&hide_border=true)
