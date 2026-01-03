@@ -1,5 +1,5 @@
 #
-![header](https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=HMance%20&descAlign=100&descAlignY=52&fontAlignY=51&fontAlign=50&textBg=false&rotate=0&strokeWidth=-8)
+
 ![Banner](https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,100:2483b&height=200&section=header&text=HMance&fontSize=60&fontColor=70a5fd&animation=fadeIn)
 ![Country](https://img.shields.io/badge/Location-Uzbekistan-blue?style=for-the-badge)
 
@@ -39,6 +39,12 @@
 ---
 
 ⭐ *Learning every day, no shortcuts.*
+
+<!-- Animation where typing my skills -->
+<!-- align is center and there is img from -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;PM+%7C+.NET+Enthusiast;Always+Learning+New+Tech"/>
+</p>
 
 ![gif](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeGNoYnQxbWVydzQ4azNpejFrNWQwdTB1aTJiZWVoemhzeWxwdXlmbyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/78XCFBGOlS6keY1Bil/giphy.gif)
 
