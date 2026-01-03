@@ -131,8 +131,7 @@
 <img src="https://skillicons.dev/icons?i=java,html,css,js,git,github" />
 
 
-## 
-![gif](https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif)
+
  
 
 
