@@ -46,7 +46,9 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;PM+%7C+.NET+Enthusiast;Always+Learning+New+Tech"/>
 </p>
 
-![gif](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeGNoYnQxbWVydzQ4azNpejFrNWQwdTB1aTJiZWVoemhzeWxwdXlmbyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/78XCFBGOlS6keY1Bil/giphy.gif)
+<p>
+<img alt="pacman contribution graph" src="https://raw.githubusercontent.com/RissMorisson/RissMorisson/output/pacman-contribution-graph.svg">
+</p>
 
 ![Country](https://img.shields.io/badge/Location-Uzbekistan-blue?style=for-the-badge)
 
