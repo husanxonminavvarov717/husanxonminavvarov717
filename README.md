@@ -54,8 +54,6 @@
 
 
 
-## 
-![gif](https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3MzNxM2g4eGY3anAwY2wzNnMzZjJweGozb3dhdXMyNnQ3ZTkwYXJkeCZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/hO8uTzEOefFh3Yv5gm/giphy.gif)
 
 ##
 ### Skills 
