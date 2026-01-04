@@ -29,7 +29,7 @@
 ⭐ *Learning every day, no shortcuts.*
 
 <h1>
- 🤝 Connect with me:         [![Telegram](https://img.shields.io/badge/-Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white)](https://t.me/Khusankhon7)
+ 🤝 Connect with me:         [![Telegram](https://img.shields.io/badge/-Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white)](https://t.me/@Khusankhon7);
      <a href="https://instagram.com/_khusan.010_"><img src="https://img.shields.io/badge/instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
 </h1>
 
