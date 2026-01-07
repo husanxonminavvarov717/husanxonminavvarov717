@@ -7,7 +7,7 @@
 
 <!-- Venom Capsule (Static Gradient) -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&height=180&color=0:6e45e2,100:88d3ce&text=🚀%20Backend%20Developer%20|%20Crafting%20code%20to%20transform%20the%20world%20💡&fontColor=ffffff&fontSize=24&fontAlignY=45&animation=twinkling" width="90%"/>
+  <img src="https://capsule-render.vercel.app/api?type=venom&height=180&color=0:6e45e2,100:88d3ce&text=🚀%20Backend%20Developer%20|%20Tricking%20coder%20 &fontColor=ffffff&fontSize=24&fontAlignY=45&animation=twinkling" width="90%"/>
 </div>
 
 <!-- Profile Stats -->
