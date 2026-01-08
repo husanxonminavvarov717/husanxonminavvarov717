@@ -1,3 +1,7 @@
+<!-- Animated Header -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:aa00ff,50:00ccff,100:ff00aa&height=120&section=header&text=Hi,%20I'm%20Shirinov%20Muhammad!&fontSize=32&fontColor=ffffff&animation=twinkling" width="100%"/>
+</div>
 #
 
 ![Banner](https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,100:2483b&height=200&section=header&text=HMance&fontSize=60&fontColor=70a5fd&animation=fadeIn)
@@ -126,6 +130,11 @@
 
 
 ![GitHub Stats](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExd2xqcmFqamg3MzUxbzVoMTN2dGxmeG5jazBnNjlpeTVnNnY4Mnp2MCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/0fz5uNPHnoVHLEhAW2/giphy.gif)
+<!-- Waving Footer -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:aa00ff,50:00ccff,100:ff00aa&height=60&section=footer" width="100%"/>
+</div>
+
 
 
 
