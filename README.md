@@ -128,11 +128,9 @@
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=husanxonminavvarov717&show_icons=true&theme=radical&hide_border=true)
 
- <a href=""> <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=husanxonminavvarov717&theme=dracula&line_height=60&line_width=120"/> </a>
-
-## My Streak
 
  <a href=""> <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=husanxonminavvarov717&theme=dracula&line_height=60&line_width=120"/> </a>
+
 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=husanxonminavvarov717&layout=compact&theme=radical&hide_border=true)
