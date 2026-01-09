@@ -1,11 +1,12 @@
 <!-- Animated Header -->
 
+
 <p align="center">
   <img src="https://chatgpt.com/backend-api/estuary/content?id=file_00000000a5c4720a9915261cacf7236c&ts=491106&p=fs&cid=1&sig=cc07318a3d5260a388084b4cbc9b2b2f01b33fd50f82ee49a34a8a882abf5a40&v=0" alt="Minavvarov Husanxon Backend Developer" width="100%">
 </p>
 
 
-##
+
 
 ![Banner](https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,100:2483b&height=200&section=header&text=HMance&fontSize=60&fontColor=70a5fd&animation=fadeIn)
 
