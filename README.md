@@ -129,7 +129,7 @@
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=husanxonminavvarov717&show_icons=true&theme=radical&hide_border=true)
 
 
- <a href=""> <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=husanxonminavvarov717&theme=dracula&line_height=60&line_width=120"/> </a>
+ <a href=""> <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=husanxonminavvarov717&theme=dracula&line_height=60&line_width=120"/> </a>           [![GitHub Streak](https://github-readme-streak-stats-vfu9.vercel.app?user=husanxonminavvarov717&theme=dracula)](https://git.io/streak-stats)
 
 
 
