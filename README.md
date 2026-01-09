@@ -1,7 +1,6 @@
 <!-- Animated Header -->
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:aa00ff,50:00ccff,100:ff00aa&height=120&section=header width="100%"/>
-</div>
+
+<img src="https://chatgpt.com/backend-api/estuary/content?id=file_00000000a5c4720a9915261cacf7236c&ts=491106&p=fs&cid=1&sig=cc07318a3d5260a388084b4cbc9b2b2f01b33fd50f82ee49a34a8a882abf5a40&v=0" />
 
 ##
 
