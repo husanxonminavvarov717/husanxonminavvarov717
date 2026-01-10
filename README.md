@@ -131,7 +131,8 @@
 
  <a href=""> <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=husanxonminavvarov717&theme=dracula&line_height=60&line_width=120"/> </a>           [![GitHub Streak](https://github-readme-streak-stats-vfu9.vercel.app?user=husanxonminavvarov717&theme=dracula)](https://git.io/streak-stats)
 
-
+[![](https://raw.githubusercontent.com/husanxonminavvarov717/husanxonminavvarov717/main/profile-summary-card-output/github/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/husanxonminavvarov717/husanxonminavvarov717/main/profile-summary-card-output/github/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=husanxonminavvarov717&layout=compact&theme=radical&hide_border=true)
 
