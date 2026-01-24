@@ -154,9 +154,12 @@
 
 ## 💠 Activity Graph 📈
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=husanxonminavvarov717-code&theme=react-dark&hide_border=true&area=true" />
-</p>
+<!-- Waving Footer -->
+<div align="center">
+
+<div align="center">
+    <img alt="Shaggy's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=husanxonminavvarov717&bg_color=0D1117&color=1F6FEB&line=EB5454&point=58A6FF&hide_border=true&width=860&radius=8&theme=github-compact&area_color=1F6FEB&area=true&height=300" align="center" width="100%" />
+</div>
   
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:f00aaa,50:00ccff,100:a00aa&height=60&section=footer" width="100%"/>
 </div>
