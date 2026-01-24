@@ -144,7 +144,7 @@
 
 ![GitHub Stats](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExd2xqcmFqamg3MzUxbzVoMTN2dGxmeG5jazBnNjlpeTVnNnY4Mnp2MCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/0fz5uNPHnoVHLEhAW2/giphy.gif)
 
-##
+
 
 [![](https://raw.githubusercontent.com/husanxonminavvarov717/husanxonminavvarov717/main/profile-summary-card-output/github/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
