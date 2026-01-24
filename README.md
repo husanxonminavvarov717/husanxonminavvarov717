@@ -132,15 +132,23 @@
  <a href=""> <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=husanxonminavvarov717&theme=dracula&line_height=60&line_width=120"/> </a>           
  [![GitHub Streak](https://github-readme-streak-stats-vfu9.vercel.app?user=husanxonminavvarov717&theme=dracula)](https://git.io/streak-stats)
 
+##
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=husanxonminavvarov717&layout=compact&theme=radical&hide_border=true)
 
+##
 
 ![GitHub Stats](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExd2xqcmFqamg3MzUxbzVoMTN2dGxmeG5jazBnNjlpeTVnNnY4Mnp2MCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/0fz5uNPHnoVHLEhAW2/giphy.gif)
 
+##
+
 [![](https://raw.githubusercontent.com/husanxonminavvarov717/husanxonminavvarov717/main/profile-summary-card-output/github/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
+##
+
 [![](https://raw.githubusercontent.com/husanxonminavvarov717/husanxonminavvarov717/main/profile-summary-card-output/github/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+
+##
 
 <!-- Waving Footer -->
 <div align="center">
