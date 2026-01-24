@@ -136,7 +136,7 @@
  
  [![GitHub Streak](https://github-readme-streak-stats-vfu9.vercel.app?user=husanxonminavvarov717&theme=dracula)](https://git.io/streak-stats)
 
-## Git Hub Langs📈
+## Git Hub Langs📊
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=husanxonminavvarov717&layout=compact&theme=radical&hide_border=true)
 
@@ -152,7 +152,7 @@
 
 [![](https://raw.githubusercontent.com/husanxonminavvarov717/husanxonminavvarov717/main/profile-summary-card-output/github/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
-
+## HMance Contribution Stats📈
 
 <!-- Waving Footer -->
 <div align="center">
