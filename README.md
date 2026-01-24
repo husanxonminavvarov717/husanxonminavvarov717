@@ -6,7 +6,9 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:f00aaa,50:00ccff,100:a00aa&height=120&section=header&text=Hi,%20I'm%20Minavvarovv%20Husanxon!&fontSize=32&fontColor=ffff&animation=twinkling" width="100%"/>
 </div>
 
-## 💠
+---
+
+💠
 
 ![Banner](https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,100:2483b&height=200&section=header&text=HMance&fontSize=60&fontColor=70a5fd&animation=fadeIn)
 
