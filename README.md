@@ -40,6 +40,7 @@
 
 ## 📫 Contact
 - GitHub: @husanxonminavvarov717
+- Te.me: @KHusankhon7
 
 ---
 
