@@ -41,6 +41,7 @@
 ## 📫 Contact
 - GitHub: @husanxonminavvarov717
 - Te.me: @KHusankhon7
+- instagram: @_khusan.717_
 
 ---
 
