@@ -10,7 +10,7 @@
 
 💠
 
-![Banner](https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,100:2483b&height=200&section=header&text=HMance&fontSize=60&fontColor=70a5fd&animation=fadeIn
+![Banner](https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,100:2483b&height=200&section=header&text=HMance&fontSize=60&fontColor=70a5fd&animation=fadeIn).
 
 
 
