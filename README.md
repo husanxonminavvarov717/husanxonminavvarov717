@@ -28,13 +28,13 @@
 # 👋 Hi there, I'm HMance
 
 🎓 Developer  
-💻 Learning Java, Git & Web  
+💻 Learning Java, Git & Web, postgreSQL  
 🌱 Always improving step by step  
 
 ---
 
 ## 🚀 Skills
-- HTML
+- postgreSQL
 - Java 
 - Git & GitHub
 
