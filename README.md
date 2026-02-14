@@ -24,27 +24,33 @@
 
 
 
-# 👋 Hi there, I'm HMance
+ 👋 Hi there, I'm HMance
 
 🎓 Developer  
 💻 Learning Java, Git & Web, postgreSQL  
 🌱 Always improving step by step  
 
----
+<div align="center">
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+</div>
 
-## 🚀 Skills
+ 🚀 Skills
 - postgreSQL
 - Java 
 - Git & GitHub
 
----
+<div align="center">
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+</div>
 
-## 📫 Contact
+ 📫 Contact
 - GitHub: @husanxonminavvarov717
 - Te.me: @KHusankhon7
 - instagram: @_khusan.717_
 
----
+<div align="center">
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+</div>
 
 ⭐ *Learning every day, no shortcuts.*
 
