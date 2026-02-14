@@ -5,7 +5,9 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:f00aaa,50:00ccff,100:a00aa&height=120&section=header&text=Hi,%20I'm%20Minavvarovv%20Husanxon!&fontSize=32&fontColor=ffff&animation=twinkling" width="100%"/>
 </div>
 
----
+<div align="center">
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+</div>
 
 💠
 
@@ -52,7 +54,9 @@
 <a href="https://instagram.com/_khusan.010_"><img src="https://img.shields.io/badge/instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
 </h1>
 
----
+<div align="center">
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+</div>
 
 
 
@@ -69,7 +73,11 @@
 
 ![Country](https://img.shields.io/badge/Location-Uzbekistan-blue?style=for-the-badge)
 
---- 💠
+<div align="center">
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+</div>
+
+ 💠
 [![GitHub followers](https://img.shields.io/github/followers/husanxonminavvarov717?style=social)](https://github.com/husanxonminavvarov717)
 <a href="https://user-badge.committers.top/uzbekistan/husanxonminavvarov717">
   <img src="https://user-badge.committers.top/uzbekistan/husanxonminavvarov717.svg" alt="Committers Top" />
@@ -91,8 +99,10 @@
 
 
 
+<div align="center">
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+</div>
 
---- 
 
 💠 Skills 
 🧿my favorite languages and tools
@@ -133,19 +143,22 @@
 
  
  
+<div align="center">
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+</div>
 
 
 
-
-
---- 
+ 
 
 💠
 <img src="https://skillicons.dev/icons?i=java,html,css,js,git,github" />
 
 
-
---- 
+<div align="center">
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+</div>
+ 
 
 💠 
 ![gif](https://github.com/menacedjava/menacedjava/raw/main/.github/workflows/matrix.svg)
@@ -154,7 +167,10 @@
 ![gif](https://private-user-images.githubusercontent.com/193404105/417462854-62b67557-7cd0-4205-ac7c-25564fc56d5f.gif?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NjU4MjM4MzgsIm5iZiI6MTc2NTgyMzUzOCwicGF0aCI6Ii8xOTM0MDQxMDUvNDE3NDYyODU0LTYyYjY3NTU3LTdjZDAtNDIwNS1hYzdjLTI1NTY0ZmM1NmQ1Zi5naWY_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjUxMjE1JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI1MTIxNVQxODMyMThaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT1lZDYzN2ZiOTljZWExOWYwMDFlNzczNTVhZmM3MjU1MjA0NzE4ZmIxZjEyMWM0YWQ1YTZjOTAyODNmODRiYWQxJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.G0hJYPNXCo5Vcd5XrJKL-bkaCDmtg-OhTFvTNyOUIu4)
 ![gif](https://private-user-images.githubusercontent.com/193404105/417461681-97b79ec2-eed3-4fbe-847f-acfa3fe66040.gif?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NjU4MjM4MzgsIm5iZiI6MTc2NTgyMzUzOCwicGF0aCI6Ii8xOTM0MDQxMDUvNDE3NDYxNjgxLTk3Yjc5ZWMyLWVlZDMtNGZiZS04NDdmLWFjZmEzZmU2NjA0MC5naWY_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjUxMjE1JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI1MTIxNVQxODMyMThaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT1hYTczNjFmYmJiNzZhNDY3OWYxMzA1ZDllN2M1ZWEyOWM0OWY2MTZmMWRiM2Y1NzBhODdkOTJhNmEzMmFhODdhJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.L-rbh0jFoVJwn1FsjBc81ZwF7J8zzYS8xElV7FmrOXI)
 
---- 
+
+<div align="center">
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+</div>
 
 
 <div align="center">
@@ -167,7 +183,9 @@
 </div>
 
 
----
+<div align="center">
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+</div>
 
 
 <div align="left">
@@ -198,7 +216,9 @@
 
 [![](https://raw.githubusercontent.com/husanxonminavvarov717/husanxonminavvarov717/main/profile-summary-card-output/github/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
---- 
+<div align="center">
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+</div>
 
 💠 Activity Graph 📈
 
