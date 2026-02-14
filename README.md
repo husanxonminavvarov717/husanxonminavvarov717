@@ -157,33 +157,25 @@
 
 --- 
 
-💠 Git Hub Stats📊
+<div align="left">
+  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=husanxonminavvarov717" alt="itsarisid" /></a>
+</div>
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=husanxonminavvarov717&show_icons=true&theme=radical&hide_border=true)
 
---- 
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=husanxonminavvarov717&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+</div>
 
-💠 Git Hub Readme Stats📈
+<table><tbody><tr border="none"><td width="50%" align="center">
+<img align="center" src="https://readme-stats-fork-mauve.vercel.app/api/?username=husanxonminavvarov717&theme=dark&show_icons=true&count_private=true">
 
- <a href=""> <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=husanxonminavvarov717&theme=dracula&line_height=60&line_width=120"/> </a>  
+<img alt="Mark streak" src="https://github-readme-streak-stats-five-roan.vercel.app?user=husanxonminavvarov717&theme=dark">
+</td>
+<td width="50%" align="center">
+<img align="center" src="https://readme-stats-fork-mauve.vercel.app/api/top-langs/?username=husanxonminavvarov717&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=6"></td></tr></tbody></table>
 
---- 
+![](./profile-3d-contrib/profile-night-green.svg)
 
-💠 Gut Hub Streak📠
- 
- [![GitHub Streak](https://github-readme-streak-stats-vfu9.vercel.app?user=husanxonminavvarov717&theme=dracula)](https://git.io/streak-stats)
-
---- 
-
-💠 Git Hub Langs📊
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=husanxonminavvarov717&layout=compact&theme=radical&hide_border=true)
-
---- 
-
-💠 
-
-![GitHub Stats](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExd2xqcmFqamg3MzUxbzVoMTN2dGxmeG5jazBnNjlpeTVnNnY4Mnp2MCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/0fz5uNPHnoVHLEhAW2/giphy.gif)
 
 
 
