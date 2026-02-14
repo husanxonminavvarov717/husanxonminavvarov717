@@ -156,6 +156,20 @@
 
 --- 
 
+
+<div align="center">
+<a href="https://github.com/husanxonminavvarov717">
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=husanxonminavvarov717&theme=2077" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=husanxonminavvarov717&theme=2077" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=husanxonminavvarov717&theme=2077" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=husanxonminavvarov717&theme=2077" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=husanxonminavvarov717&theme=2077" height="180em" />
+</div>
+
+
+---
+
+
 <div align="left">
   <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=husanxonminavvarov717" alt="itsarisid" /></a>
 </div>
