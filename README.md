@@ -114,33 +114,89 @@
 🧿my favorite languages and tools
 <table>
   <tr>
-   <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=github" width="48" height="48" alt="GitHub" />
-      <br>GitHub
+  <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/java-icon.svg" width="48" height="48" alt="Java" />
+      <br>Java
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=postgres" width="48" height="48" alt="PostgreSQL" />
+      <br>PostgreSQL
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=postgres" width="48" height="48" alt="SQL Shell" />
+      <br>SQL Shell
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML" />
+      <br>HTML
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="CSS" />
+      <br>CSS
+    </td>
+    <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/js-icon.svg" width="48" height="48" alt="JavaScript" />
+      <br>JavaScript
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=gcp" width="48" height="48" alt="Google Sheets" />
+      <br>Google Sheets
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=gcp" width="48" height="48" alt="AppSheet" />
+      <br>AppSheet
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=gcp" width="48" height="48" alt="AppScript" />
+      <br>AppScript
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=gcp" width="48" height="48" alt="LookerStudio" />
+      <br>LookerStudio
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=figma" width="48" height="48" alt="Figma" />
+      <br>Figma
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=blender" width="48" height="48" alt="Blender" />
+      <br>Blender
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=canva" width="48" height="48" alt="Canva" />
+      <br>Canva
     </td>
     <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" />
       <br>Git
     </td>
-     <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/mysql-icon.svg" width="48" height="48" alt="MySQL" />
-      <br>MySQL
-    </td>
-     <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=postgres" width="48" height="48" alt="PostgreSQL" />
-      <br>PostgreSQL
-    </td>  
     <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/java-icon.svg" width="65" height="65" alt="Java" />
-      <br>Java
+        <img src="https://skillicons.dev/icons?i=grafana" width="48" height="48" alt="Dashboard" />
+      <br>Dashboard
     </td>
     <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/js-icon.svg" width="65" height="65" alt="JavaScript" />
-      <br>JavaScript
+        <img src="https://skillicons.dev/icons?i=telegram" width="48" height="48" alt="TgBot" />
+      <br>TgBot
     </td>
-     <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML" />
-      <br>HTML
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=postman" width="48" height="48" alt="Postman" />
+      <br>Postman
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=fastapi" width="48" height="48" alt="RestAPI" />
+      <br>RestAPI
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=spring" width="48" height="48" alt="Spring Security" />
+      <br>Spring Security
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=spring" width="48" height="48" alt="Spring Framework" />
+      <br>Spring Framework
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=postman" width="48" height="48" alt="Swagger" />
+      <br>Swagger
     </td>
       </tr>
 </table>
