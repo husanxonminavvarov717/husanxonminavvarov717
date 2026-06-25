@@ -189,7 +189,7 @@
       <br>Dashboard
     </td>
     <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=telegram" width="48" height="48" alt="TgBot" />
+        <img src="https://skillicons.dev/icons?i=botfather" width="48" height="48" alt="TgBot" />
       <br>TgBot
     </td>
     <td align="center" width="96">
