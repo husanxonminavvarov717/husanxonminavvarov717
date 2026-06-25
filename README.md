@@ -13,54 +13,26 @@
 
 ![Banner](https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,100:2483b&height=200&section=header&text=HMance&fontSize=60&fontColor=70a5fd&animation=fadeIn).
 
-
-
-
-
-
-
 ![Country](https://img.shields.io/badge/Location-Uzbekistan-blue?style=for-the-badge)
-
-
 
 
  👋 Hi there, I'm HMance
 
 🎓 Developer  
-💻 Learning Java, Git & Web, postgreSQL  
+💻 Learning Java
 🌱 Always improving step by step  
 
 <div align="center">
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 </div>
 
- 🚀 Skills
-- postgreSQL
-- Java 
-- Git & GitHub
-
-<div align="center">
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-</div>
-
- 📫 Contact
-- GitHub: @husanxonminavvarov717
-- Te.me: @KHusankhon7
-- instagram: @_khusan.717_
-
-<div align="center">
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-</div>
-
-⭐ *Learning every day, no shortcuts.*
-
-<h1>
+<h3>
  🤝 Connect with me:
 
 
 <a href="https://t.me/Khusankhon7"><img src="https://img.shields.io/badge/telegram-27A7E7?style=for-the-badge&logo=telegram&logoColor=white" /></a>
 <a href="https://instagram.com/_khusan.010_"><img src="https://img.shields.io/badge/instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
-</h1>
+</h3>
 
 <div align="center">
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
