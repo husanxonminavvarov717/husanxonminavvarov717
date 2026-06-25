@@ -69,7 +69,7 @@
 
 
 <h2> 👋 Salom, men HMance <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExY2toNTN2Z2k1em8zMHBnczRvNmtoaWdybnhveTBnZmE2bTE5ZDB2byZlcD12MV9naWZzX3NlYXJjaCZjdD1n/eEtb93oDARTao9l9lP/200.webp" width="50"></h2>
-<img align='right' src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExY2NyNzg1bHFoazRsajh6NHM0NGFvMXZsYnN5dTJlemdzY2lqbDNkdiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/u2pmTWUi0MXjyrMaVj/giphy.webp" width="230">
+<img align='right' src=["https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExY2NyNzg1bHFoazRsajh6NHM0NGFvMXZsYnN5dTJlemdzY2lqbDNkdiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/u2pmTWUi0MXjyrMaVj/giphy.webp" width="230](https://media0.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3bXhteWx4anQ4eHFqY2syMmpkZWE0b2x4N3J4dDZvemZhZzVtbXUxZyZlcD12MV9naWZzX3JlbGF0ZWQmY3Q9Zw/YYW0hHizzIOrlhimPG/giphy.webp)">
 <p><em>Backend Dasturchi <img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></em></p>
 
 [![Telegram](https://img.shields.io/badge/-Telegram-blue?style=flat-square&logo=Telegram&logoColor=white&link=https://t.me/Khusankhon7)](https://t.me/Khusankhon7)
