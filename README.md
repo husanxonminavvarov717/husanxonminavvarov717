@@ -68,7 +68,28 @@
 
 
 
+<h2> 👋 Salom, men [Ismingiz]! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
+<img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230">
+<p><em>Backend Dasturchi <img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></em></p>
 
+[![Telegram](https://img.shields.io/badge/-Telegram-blue?style=flat-square&logo=Telegram&logoColor=white&link=https://t.me/Khusankhon7)](https://t.me/Khusankhon7)
+
+### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> Men haqimda qisqacha...  
+
+```javascript
+const dev = {
+  pronouns: "he" | "him",
+  code: ["Java", "JavaScript", "SQL", "HTML", "CSS"],
+  frameworks: ["Spring Framework", "Spring Security"],
+  tools: ["PostgreSQL", "Git", "Postman", "Swagger", "Google Sheets", "AppSheet", "AppScript"],
+  challenge: "Hozirda Java va Spring yordamida backend loyihalar yaratish ustida ishlayapman"
+}
+```
+
+
+<div align="center">
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+</div>
 <!-- Animation where typing my skills -->
 <!-- align is center and there is img from -->
 <p align="center">
