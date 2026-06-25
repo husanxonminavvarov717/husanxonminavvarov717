@@ -68,13 +68,13 @@
 
 
 
-<h2> 👋 Salom, men [Ismingiz]! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
-<img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230">
+<h2> 👋 Salom, men HMance <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExY2toNTN2Z2k1em8zMHBnczRvNmtoaWdybnhveTBnZmE2bTE5ZDB2byZlcD12MV9naWZzX3NlYXJjaCZjdD1n/eEtb93oDARTao9l9lP/200.webp" width="50"></h2>
+<img align='right' src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExY2NyNzg1bHFoazRsajh6NHM0NGFvMXZsYnN5dTJlemdzY2lqbDNkdiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/u2pmTWUi0MXjyrMaVj/giphy.webp" width="230">
 <p><em>Backend Dasturchi <img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></em></p>
 
 [![Telegram](https://img.shields.io/badge/-Telegram-blue?style=flat-square&logo=Telegram&logoColor=white&link=https://t.me/Khusankhon7)](https://t.me/Khusankhon7)
 
-### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> Men haqimda qisqacha...  
+### <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExY2toNTN2Z2k1em8zMHBnczRvNmtoaWdybnhveTBnZmE2bTE5ZDB2byZlcD12MV9naWZzX3NlYXJjaCZjdD1n/28wbVWFs2FR7uG9wPa/200.webp" width="50"> Men haqimda qisqacha...  
 
 ```javascript
 const dev = {
