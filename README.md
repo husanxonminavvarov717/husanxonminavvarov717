@@ -142,6 +142,11 @@
         <img src="https://skillicons.dev/icons?i=gcp" width="48" height="48" alt="Google Sheets" />
       <br>Google Sheets
     </td>
+      </tr>
+</table>
+
+<table>
+  <tr>
     <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=gcp" width="48" height="48" alt="AppSheet" />
       <br>AppSheet
@@ -170,6 +175,11 @@
         <img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" />
       <br>Git
     </td>
+      </tr>
+</table>
+
+<table>
+  <tr>
     <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=grafana" width="48" height="48" alt="Dashboard" />
       <br>Dashboard
